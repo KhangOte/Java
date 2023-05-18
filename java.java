@@ -1,5 +1,7 @@
 public class java {
     public static void main(String[] args) {
-        System.out.println("Hello Mọi người");
+        int x=6;
+        x-=3;
+        System.out.println("x = " +x);
     }
 }
